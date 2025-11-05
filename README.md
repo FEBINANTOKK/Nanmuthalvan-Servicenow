@@ -16,4 +16,4 @@ Team member : Nittin N
 
 ### Demo video :
 
-https://drive.google.com/file/d/1c5bwKhW1qHZ1ZFYctsE1s0NZ1M0Fb6JD/view?usp=drivesdk
+[Watch the project demonstration](https://drive.google.com/file/d/1c5bwKhW1qHZ1ZFYctsE1s0NZ1M0Fb6JD/view?usp=drivesdk)
